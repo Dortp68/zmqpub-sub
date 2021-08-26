@@ -1,0 +1,3 @@
+/home/dortp68/repos/zmqclient/build/CMakeFiles/rebuild_cache.dir
+/home/dortp68/repos/zmqclient/build/CMakeFiles/edit_cache.dir
+/home/dortp68/repos/zmqclient/build/CMakeFiles/main.dir

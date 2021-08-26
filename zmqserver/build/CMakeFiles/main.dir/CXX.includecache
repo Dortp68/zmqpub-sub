@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/dortp68/repos/zmqserver/server.cpp
+string
+-
+iostream
+-
+thread
+-
+chrono
+-
+fstream
+-
+sstream
+-
+algorithm
+-
+zmq.hpp
+-
+
